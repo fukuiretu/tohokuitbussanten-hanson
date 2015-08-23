@@ -9,6 +9,8 @@
 
 ## * 職業
 
+## * 参加しようと思った動機
+
 ## * 趣味
 
 ## * 2015の目標
@@ -20,4 +22,4 @@
 
 
 # Members
-- [fukuiretu](https://github.com/fukuiretu/tohokuitbussanten-hanson/blob/master/members/fukuiretu.md)
+- [fukuiretu](fukuiretu.md)
